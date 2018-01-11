@@ -1,0 +1,19 @@
+{
+  "name": "express-socket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Yofri/express-socket.git",
+  "author": "Yofriadi Yahya <yofriadiyahya@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4",
+    "socket.io-client": "^2.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.10"
+  }
+}
